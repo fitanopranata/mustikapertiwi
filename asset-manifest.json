@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/mustikapertiwi/static/css/main.d28b249c.css",
-    "main.js": "/mustikapertiwi/static/js/main.b21e4b49.js",
+    "main.css": "/mustikapertiwi/static/css/main.681b0464.css",
+    "main.js": "/mustikapertiwi/static/js/main.85a37a8b.js",
     "static/js/787.d0f4f082.chunk.js": "/mustikapertiwi/static/js/787.d0f4f082.chunk.js",
     "static/media/strategi.png": "/mustikapertiwi/static/media/strategi.90f51f1b278c2234819b.png",
     "static/media/IG_ONE.png": "/mustikapertiwi/static/media/IG_ONE.e65a83f6e311c8663921.png",
+    "static/media/ch.jpg": "/mustikapertiwi/static/media/ch.472db036d58d93896117.jpg",
+    "static/media/putri1.jpg": "/mustikapertiwi/static/media/putri1.8db5c4e7cc2c6b888fbd.jpg",
+    "static/media/lisa.jpg": "/mustikapertiwi/static/media/lisa.5bffdd3da46a16052859.jpg",
     "static/media/diatasroda.png": "/mustikapertiwi/static/media/diatasroda.da853049588626b27ad4.png",
     "static/media/institute.png": "/mustikapertiwi/static/media/institute.d92d4d6ac62b80216542.png",
     "static/media/gbn.png": "/mustikapertiwi/static/media/gbn.74b8f9790b5cd22afefe.png",
     "static/media/konteks.png": "/mustikapertiwi/static/media/konteks.16e51c76786d88ec8895.png",
     "static/media/kalpatara.png": "/mustikapertiwi/static/media/kalpatara.be2b427c21a35a2e248b.png",
+    "static/media/adhi.jpg": "/mustikapertiwi/static/media/adhi.af5bc1eb511ea5e02d1a.jpg",
     "static/media/r-tika.jpg": "/mustikapertiwi/static/media/r-tika.46bc9b8dcdd16e6f74fc.jpg",
     "static/media/mustika-pertiwi-2.png": "/mustikapertiwi/static/media/mustika-pertiwi-2.1481c9474c1a37ac2160.png",
     "index.html": "/mustikapertiwi/index.html",
-    "main.d28b249c.css.map": "/mustikapertiwi/static/css/main.d28b249c.css.map",
-    "main.b21e4b49.js.map": "/mustikapertiwi/static/js/main.b21e4b49.js.map",
+    "main.681b0464.css.map": "/mustikapertiwi/static/css/main.681b0464.css.map",
+    "main.85a37a8b.js.map": "/mustikapertiwi/static/js/main.85a37a8b.js.map",
     "787.d0f4f082.chunk.js.map": "/mustikapertiwi/static/js/787.d0f4f082.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d28b249c.css",
-    "static/js/main.b21e4b49.js"
+    "static/css/main.681b0464.css",
+    "static/js/main.85a37a8b.js"
   ]
 }
