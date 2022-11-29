@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mustikapertiwi/static/css/main.623bd8f2.css",
-    "main.js": "/mustikapertiwi/static/js/main.4512814c.js",
+    "main.css": "/mustikapertiwi/static/css/main.d28b249c.css",
+    "main.js": "/mustikapertiwi/static/js/main.b21e4b49.js",
     "static/js/787.d0f4f082.chunk.js": "/mustikapertiwi/static/js/787.d0f4f082.chunk.js",
     "static/media/strategi.png": "/mustikapertiwi/static/media/strategi.90f51f1b278c2234819b.png",
     "static/media/IG_ONE.png": "/mustikapertiwi/static/media/IG_ONE.e65a83f6e311c8663921.png",
@@ -13,12 +13,12 @@
     "static/media/r-tika.jpg": "/mustikapertiwi/static/media/r-tika.46bc9b8dcdd16e6f74fc.jpg",
     "static/media/mustika-pertiwi-2.png": "/mustikapertiwi/static/media/mustika-pertiwi-2.1481c9474c1a37ac2160.png",
     "index.html": "/mustikapertiwi/index.html",
-    "main.623bd8f2.css.map": "/mustikapertiwi/static/css/main.623bd8f2.css.map",
-    "main.4512814c.js.map": "/mustikapertiwi/static/js/main.4512814c.js.map",
+    "main.d28b249c.css.map": "/mustikapertiwi/static/css/main.d28b249c.css.map",
+    "main.b21e4b49.js.map": "/mustikapertiwi/static/js/main.b21e4b49.js.map",
     "787.d0f4f082.chunk.js.map": "/mustikapertiwi/static/js/787.d0f4f082.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.623bd8f2.css",
-    "static/js/main.4512814c.js"
+    "static/css/main.d28b249c.css",
+    "static/js/main.b21e4b49.js"
   ]
 }
