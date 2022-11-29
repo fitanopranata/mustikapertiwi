@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mustikapertiwi/static/css/main.623bd8f2.css",
+    "main.js": "/mustikapertiwi/static/js/main.8629761a.js",
+    "static/js/787.d0f4f082.chunk.js": "/mustikapertiwi/static/js/787.d0f4f082.chunk.js",
+    "static/media/IG_ONE.png": "/mustikapertiwi/static/media/IG_ONE.4f99e3d45bb59233f71c.png",
+    "static/media/strategi.png": "/mustikapertiwi/static/media/strategi.90f51f1b278c2234819b.png",
+    "static/media/diatasroda.png": "/mustikapertiwi/static/media/diatasroda.da853049588626b27ad4.png",
+    "static/media/institute.png": "/mustikapertiwi/static/media/institute.d92d4d6ac62b80216542.png",
+    "static/media/gbn.png": "/mustikapertiwi/static/media/gbn.74b8f9790b5cd22afefe.png",
+    "static/media/konteks.png": "/mustikapertiwi/static/media/konteks.16e51c76786d88ec8895.png",
+    "static/media/kalpatara.png": "/mustikapertiwi/static/media/kalpatara.be2b427c21a35a2e248b.png",
+    "static/media/r-tika.jpg": "/mustikapertiwi/static/media/r-tika.46bc9b8dcdd16e6f74fc.jpg",
+    "static/media/mustika-pertiwi-2.png": "/mustikapertiwi/static/media/mustika-pertiwi-2.1481c9474c1a37ac2160.png",
+    "index.html": "/mustikapertiwi/index.html",
+    "main.623bd8f2.css.map": "/mustikapertiwi/static/css/main.623bd8f2.css.map",
+    "main.8629761a.js.map": "/mustikapertiwi/static/js/main.8629761a.js.map",
+    "787.d0f4f082.chunk.js.map": "/mustikapertiwi/static/js/787.d0f4f082.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623bd8f2.css",
+    "static/js/main.8629761a.js"
+  ]
+}
